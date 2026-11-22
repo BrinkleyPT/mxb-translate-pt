@@ -107,13 +107,13 @@ Wrong password
 cc_serverfull
 Server Full
 sightinglap
-Sighting Lap
+Manga / Volta de Reconhecimento
 new
 Novo
 chat
 Chat
 changeview
-Change View
+Mudar Vista
 clutch
 Embraiagem
 Export
@@ -137,7 +137,7 @@ Brake Help
 tractionhelp
 Traction Help
 autoshift
-Automatic Shift
+Mudanças Automáticas
 ffstrength
 Strength:
 author
@@ -145,9 +145,9 @@ Author:
 realisticweather
 Realistic Weather:
 realistic_weather
-Realistic
+Realista
 temperature
-Temperature:
+Temperatura:
 wind_direction
 Wind Direction:
 wind_speed
@@ -165,7 +165,7 @@ Chat
 autochat
 Autochat
 save
-Save
+Guardar
 general
 General
 drivetrain
@@ -203,7 +203,7 @@ Shaders
 corneranticipation
 Corner Anticipation
 garage
-Garage
+Garagem
 speed
 Speed:
 saveas
@@ -261,11 +261,11 @@ Audio
 detaillevels
 Detail Level
 returntopit
-Return To Pit
+Regressar ao Paddock
 quickrace
-Quick Race
+Corrida Rápida
 raceweekend
-Race
+Corrida
 hardcoretext
 Hardcore Mode
 settings_race
@@ -277,9 +277,9 @@ Track Length:
 track_altitude
 Track Altitude:
 tyres
-Tyres
+Pneus
 advanced_input
-Advanced
+Avançadas
 Rider
 Rider:
 camera
@@ -335,9 +335,9 @@ Rider F/B Lean
 autoriderfblean
 Automatic Rider F/B Lean
 raisearm
-Raise arm
+Levantar braço
 current_setup
-Current:
+Atual:
 wetrace_setup
 Wet Race:
 name_server
@@ -347,7 +347,7 @@ D
 p_Server
 P
 track_server
-Track
+Pista
 length_server
 Length
 h_server
@@ -375,7 +375,7 @@ Bike Paint:
 delete_profile
 Delete Profile?
 track_bestlaps
-Track
+Pista
 delete_replay
 Delete Replay?
 garage_title
@@ -475,7 +475,7 @@ Swingarm Length:
 bike_selection
 Bike
 category
-Category:
+Categoria:
 category_server
 Cat
 race_number
@@ -489,7 +489,7 @@ Language
 enable_ff
 Enable
 wingesture
-Win Gesture
+Gesto de Vitória
 complaint
 Complaint
 sit
@@ -845,7 +845,7 @@ Export Setup
 setup_shared
 Setup
 sender
-Sender
+Remetente
 shared_setups_title
 Shared Setups
 copy_from
@@ -867,7 +867,7 @@ Add Trainer
 front_leverage
 Front Leverage:
 front_disc
-Front Disc:
+Disco Frontal:
 rear_mastercylinder
 Rear Master Cylinder:
 rear_disc
@@ -909,7 +909,7 @@ Speed Increase
 ReplaySpeedDec
 Speed Decrease
 gestures
-Gestures
+Gestos
 front_sag
 Front Sag:
 race_sag
@@ -925,7 +925,7 @@ Rear Sag:
 rider_gear
 Rider Gear:
 category_title
-Category
+Categoria
 rider_name
 Rider Name:
 rider_font
@@ -1147,7 +1147,7 @@ Missing Track
 CC_runs
 Runs
 CC_races
-Races
+Corridas
 practice_max_runs
 Practice Max Runs:
 straight_rhythm_testing_title
@@ -1295,7 +1295,7 @@ L/R Lean
 cc_trackmismatch
 Track Mismatch
 flags
-Flags:
+Bandeiras:
 cc_both
 Both
 pits
@@ -1307,7 +1307,7 @@ By Poll
 CC_banping
 Ping Too High
 track_screens
-Track Screens
+Ecrãs de Pista
 externalview
 External View
 dynamic_view
@@ -1341,9 +1341,9 @@ Deformation:
 cc_none
 None
 cc_fixed
-Fixed
+Fixo
 cc_distance
-Distance
+Distância
 cc_crashspeed
 Crash Speed
 ui_back
@@ -1353,7 +1353,7 @@ UI Hide / Show
 ui_enter
 UI Enter
 kick
-Kick
+Expulsar
 CC_bancheat
 Cheating
 common_setup
@@ -1367,7 +1367,7 @@ Limited
 CC_freetyresets
 Free
 error
-Error
+Erro
 cc_tracknotallowed
 Track Not Allowed
 cc_dropped
@@ -1389,6 +1389,6 @@ Class Mismatch
 cc_missingclass
 Missing Class
 class
-Class:
+Classe:
 overjump_crash
 Overjump Crash
