@@ -5,7 +5,7 @@ Corrida
 Exit
 Fechar
 Back
-Back
+Recuar
 settings
 Configurações
 gfx_tab
@@ -15,17 +15,17 @@ Input
 misc_tab
 Misc
 profiles
-Profiles
+Perfis
 Bestlaps
-Best Laps
+Melhores Voltas
 Viewreplays
 Replays
 yes
-YES
+SIM
 no
-NO
+NÃO
 cancel
-Cancel
+Cancelar
 track_info
 Track Info
 Done
@@ -61,19 +61,19 @@ EUA
 metric_units
 Métrica
 date1
-MM/DD/YYYY
+MM/DD/AAAA
 date2
-DD/MM/YYYY
+DD/MM/AAAA
 Units
-Units
+Unidades
 dateformat
 Date Format
 laps
 Mangas / Voltas
 name
-Name:
+Nome:
 delete
-Delete
+Apagar
 view
 View
 event_info
@@ -97,7 +97,7 @@ Ecrã inteiro
 cc_borderless
 Borderless
 cc_windowed
-Windowed
+Janela
 close
 Fechar
 cc_timeout
@@ -105,7 +105,7 @@ Connection Timeout
 cc_wrongpassword
 Wrong password
 cc_serverfull
-Server Full
+Servidor Cheio
 sightinglap
 Manga / Volta de Reconhecimento
 new
