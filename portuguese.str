@@ -129,7 +129,7 @@ Warmup Length:
 racetext
 Races Length:
 sessiontext
-Name:
+Nome:
 passwordtext
 Password:
 brakehelp
@@ -139,9 +139,9 @@ Traction Help
 autoshift
 Mudanças Automáticas
 ffstrength
-Strength:
+Intensidade:
 author
-Author:
+Autor:
 realisticweather
 Realistic Weather:
 realistic_weather
@@ -159,7 +159,7 @@ Pista
 order_length
 Length
 order_date
-Date
+Data
 chat_button
 Chat
 autochat
@@ -167,13 +167,13 @@ Autochat
 save
 Guardar
 general
-General
+Geral
 drivetrain
 Drivetrain
 suspensions
-Suspensions
+Suspensões
 fuel
-Fuel:
+Combustível:
 copyfrom
 Copiar
 aniso_text
@@ -191,29 +191,29 @@ Onboard View
 mouselook
 Mouse Look
 resolution
-Resolution:
+Resolução:
 fov
-Field of View:
+Campo de Visão:
 dynamicshadows
-Dynamic Shadows
+Sombras Dinâmicas
 reflections
 Reflections
 shaders
 Shaders
 corneranticipation
-Corner Anticipation
+Antecipar Curvas
 garage
 Garagem
 speed
-Speed:
+Velocidade:
 saveas
-Save As
+Guardar Como
 modify
-Modify
+Modificar
 screen
-Screen
+Ecrã
 Textures
-Textures
+Texturas
 filtering
 Filtering:
 lighting
@@ -239,23 +239,23 @@ Force Cockpit
 noaids
 No Aids
 simulation
-Simulation
+Simulação
 ridingaids
 Riding Aids
 weather
 Weather
 undo
-Undo
+Retroceder
 setup_overwrite
 Overwrite Setup?
 setup_defaultsave
-Save Default?
+Guardar Padrão?
 setup_save
-Save Changes?
+Guardar Alterações?
 setup_delete
-Delete Setup?
+Apagar Setup?
 continue
-Continue
+Continuar
 Audio
 Audio
 detaillevels
@@ -281,15 +281,15 @@ Pneus
 advanced_input
 Avançadas
 Rider
-Rider:
+Piloto:
 camera
 Camera:
 position
-Position:
+Posição:
 last_lap
-Last Lap:
+Última Volta:
 best_lap
-Best Lap:
+Melhor Volta:
 reset
 Reset
 antialias
@@ -313,19 +313,19 @@ T2
 split3
 T3
 speedlap
-Speed
+Velocidade
 name_stand
-Name
+Nome
 bike_stand
 Bike
 time_stand
-Time
+Tempo
 lap_stand
-Lap
+Volta
 gap_stand
 Gap
 speed_stand
-Speed
+Velocidade
 racetime_stand
 Race Time
 aero_volume
@@ -341,7 +341,7 @@ Atual:
 wetrace_setup
 Wet Race:
 name_server
-Name
+Nome
 d_server
 D
 p_Server
@@ -349,11 +349,11 @@ P
 track_server
 Pista
 length_server
-Length
+Duração
 h_server
 H
 status_server
-Status
+Estado
 ping_server
 Ping
 world
@@ -367,39 +367,39 @@ Exit from Testing?
 userinterface
 User Interface
 skipintro
-Skip Intro
+Saltar Intro
 bike_profile
 Bike:
 paint_profile
 Bike Paint:
 delete_profile
-Delete Profile?
+Eliminar Perfil?
 track_bestlaps
 Pista
 delete_replay
-Delete Replay?
+Apagar Replay?
 garage_title
-Garage
+Garagem
 fuel_garage
-Fuel
+Combustível
 keep_resolution
-Keep Resolution?
+Manter Resolução?
 exit_race
-Exit from Race?
+Sair da Corrida?
 Laptime_bestlaps
 Lap time
 date_bestlaps
-Date
+Data
 bike_bestlaps
 Bike
 tyretemp_left
-L
+E
 tyretemp_middle
-M
+C
 tyretemp_right
-R
+D
 spring_garage
-Spring:
+Suspensão:
 preload_garage
 Preload:
 frontsusp_garage
@@ -447,7 +447,7 @@ Smooth
 serverbrowser_title
 Server Browser
 continue_ontrack
-Continue
+Continuar
 tilt
 Tilt:
 w_server
@@ -465,9 +465,9 @@ Admin
 others_garage
 Others
 brakes_garage
-Brakes
+Travões
 geom_garage
-Geometry
+Geometria
 rakeangle_garage
 Rake Angle:
 swingarm_garage
@@ -503,11 +503,11 @@ Free Look
 freetrack
 FreeTrack
 disable_chat
-Disable Chat
+Desativar Chat
 bandwidth
 Bandwidth:
 profile
-Profile
+Perfil
 share_setup
 Share Setup
 GG_Profiles
@@ -551,11 +551,11 @@ High
 cc_veryhigh
 Very High
 cc_default
-Default
+Padrão
 cc_overall
-Overall
+Geral
 cc_waiting
-Waiting
+Em Espera
 cc_prequalify
 Pre-Qualify
 cc_qualify
@@ -635,7 +635,7 @@ Direct Lean:
 rating_server
 R
 cc_laps
-laps
+voltas
 cc_unabletoidentifyuser
 Unable to Identify User
 cc_bilinear
@@ -643,19 +643,19 @@ Bilinear
 cc_trilinear
 Trilinear
 CC_SightingLap
-Sighting Lap
+Volta de Reconhecimento
 cc_prestart
 Pre-Start
 cc_raceover
-Race Over
+Corrida Terminada
 cc_startsequence
 Start Sequence
 cc_inprogress
-In Progress
+A Decorrer
 cc_complete
 Complete
 cc_cutting
-Cutting
+Corte
 cc_jumpstart
 Jump Start
 cc_retired
@@ -663,7 +663,7 @@ Retired
 cc_serverdisco
 Server Disconnection
 cc_disqualified
-Disqualified
+Desqualificado
 cc_director
 Director
 cc_timepenalty
@@ -677,9 +677,9 @@ L mouse button: rotate/rR mouse button: pan/rL+R mouse buttons: dolly in / out/r
 GG_world
 Access online matchmaking
 cc_lap
-lap
+volta
 cc_sharedsetup
-shared setup
+setup partilhado
 Connection
 Connection
 shifthelp
@@ -687,19 +687,19 @@ Shift Help
 starter
 Starter
 show_hud
-Show HUD
+Mostrar HUD
 CC_PollEject
 Poll: Eject
 CC_PollKick
-Poll: Kick
+Votação: Expulsar
 CC_PollStartSession
 Poll: Start
 CC_PollDisqualify
-Poll: Disqualify
+Votação: Desqualificar
 CC_Yes
-Yes
+Sim
 CC_No
-No
+Não
 CC_PollResults
 Poll Results
 CC_PollApproved
@@ -709,7 +709,7 @@ Rejected
 hide_names
 Hide Names
 track_settings
-Track
+Pista
 max_ping
 Max Ping:
 host_local
@@ -793,7 +793,7 @@ Deadzone filters unwanted movements in the first part of the input./rIt is usefu
 uk_units
 RU
 nickname_title
-Nickname
+Alcunha
 reverse_ff
 Reverse
 guid
@@ -801,13 +801,13 @@ GUID:
 trainer
 Trainer
 enable_trainer
-Enable
+Ativar
 add_trainer
-Add
+Adicionar
 save_trainer
-Save
+Guardar
 remove_trainer
-Remove
+Remover
 face_tracking
 Face Tracking
 cc_notwhitelisted
@@ -817,29 +817,29 @@ Overwrite Trainer?
 cc_blacklisted
 Blacklisted
 CC_PollInProgress
-A poll is in progress
+Está a decorrer uma votação
 CC_PollWait
 Wait before starting a new poll
 CC_PollsDisabled
-Polls are disabled
+As votações estão desativadas
 oil_garage
-Oil:
+Óleo:
 CC_MaxPingWarning
 Max Ping Warning
 helmet
-Helmet:
+Capacete:
 helmet_paint
 Helmet Paint:
 save_replay
-Save Replay
+Guardar Replay
 export_results
-Export Results
+Exportar Resultados
 setup_notes
 Setup Notes
 save_setup
-Save Setup
+Guardar Setup
 shared_setups
-Shared
+Partilhados
 export_setup
 Export Setup
 setup_shared
@@ -849,9 +849,9 @@ Remetente
 shared_setups_title
 Shared Setups
 copy_from
-Copy From
+Copiar de
 track_copyfrom
-Track
+Pista
 setup_copyfrom
 Setup
 preload_gearbox
@@ -861,9 +861,9 @@ Shift Up Preload
 shiftdownpreload
 Shift Down Preload
 trainer_save
-Save Trainer
+Guardar Trainer
 trainer_add
-Add Trainer
+Adicionar Trainer
 front_leverage
 Front Leverage:
 front_disc
@@ -889,13 +889,13 @@ Move Up
 ReplayMoveDown
 Move Down
 ReplayRotLeft
-Rotate Left
+Rotação (Esquerda)
 ReplayRotRight
-Rotate Right
+Rotação (Direita)
 ReplayRotUp
-Rotate Up
+Rotação (Cima)
 ReplayRotDown
-Rotate Down
+Rotação (Baixo)
 camera_controls
 Replay Camera
 ReplayRoll
@@ -939,13 +939,13 @@ Protection:
 bikeinfo_title
 Bike Info
 gain
-Gain:
+Ganho:
 Displacement_info
 Displacement:
 gears_info
 Gears:
 engine_info
-Engine:
+Motor:
 maxpower_info
 Max Power:
 weight_info
@@ -969,7 +969,7 @@ Password
 server
 Server:
 laps_race
-Laps
+Voltas
 looktoapex
 Look To Apex
 leanheading
@@ -983,7 +983,7 @@ Ideal Lap Time
 ideal_time
 Ideal Time
 best_time
-Best Time
+Melhor Tempo
 bike_font
 Bike Font:
 dab
@@ -991,9 +991,9 @@ Dab
 cc_autocamset
 Auto
 cc_orbitcam
-Orbit
+Orbita
 cc_freecam
-Free
+Livre
 cc_freeroamcam
 Free-Roam
 autoriderdab
@@ -1007,9 +1007,9 @@ Joystick
 axle_calibration
 Axle
 controller_calibration
-Controller:
+Comando:
 value_calibration
-Value
+Valor
 min_calibration
 Min
 max_calibration
@@ -1019,21 +1019,21 @@ Lean Help
 reset_track
 Reset Track
 disable_collisions
-Disable Collisions
+Desativar Colisões
 collisions
-Collisions
+Colisões
 collisions_disabled
-Collisions Disabled:
+Colisões Desativadas:
 fork_offset
 Fork Offset:
 clean_bike
-Clean
+Limpar
 controller_profile
 Controller Profile:
 cc_custom
 Custom
 compare_setup
-Compare:
+Comparar:
 vsync
 VSync
 trackmarker
@@ -1049,7 +1049,7 @@ Info
 server_info
 Server Info
 system
-System
+Sistema
 vr_reset
 VR Reset
 tip_1
@@ -1073,7 +1073,7 @@ Open Practice
 autoridersit
 Automatic Rider Sit
 lead_trainer
-Lead:
+Avanço:
 cc_sec
 sec
 helmet_cam
@@ -1099,9 +1099,9 @@ Min:
 max_combinedbrakes
 Max:
 cc_fuel
-Fuel:
+Combustível:
 cc_battery
-Battery:
+Bateria:
 spectate
 Spectate
 cc_spectating
@@ -1175,9 +1175,9 @@ Reset Track
 CC_PollSpectators
 Spectators cannot start this kind of poll
 CC_PollRaces
-Polls disabled during races
+Votações desativadas durante as corridas
 rumble
-Rumble
+Vibração
 lock_view
 Lock To Bike
 local
@@ -1189,11 +1189,11 @@ Holeshot:
 instant_replay
 Instant Replay
 cc_racelength_percentage
-Percentage
+Percentagem
 cc_racelength_time
-Time
+Tempo
 cc_racelength_laps
-Laps
+Voltas
 rodlength_garage
 Rod Length:
 fork_height
@@ -1237,7 +1237,7 @@ Dynamic Track Surface Data
 CC_SyncTerrainDeformationData
 Terrain Deformation Data
 CC_SyncRaceData
-Race Data
+Dados de Corrida
 CC_SyncInit
 Init
 CC_SyncBikeData
@@ -1267,7 +1267,7 @@ Bike Graphics
 CC_SyncClientConnection
 Client Connection
 CC_SyncClientData
-Client Data
+Dados do Cliente
 CC_SyncClientSpectatorJoin
 Client Spectator Join
 CC_SyncClientEjected
@@ -1275,9 +1275,9 @@ Client Ejected
 CC_SyncClientDisconnected
 Client Disconnected
 CC_SyncData
-Data
+Dados
 CC_SyncCommunication
-Communication
+Comunicação
 TT_guidcopy
 Copy GUID to clipboard
 pit_environment_sounds
@@ -1285,7 +1285,7 @@ Pit Environment Sounds
 filter_name
 Filter Name:
 cc_disabled
-Disabled
+Desativado
 cc_full
 Full
 cc_fblean
@@ -1337,7 +1337,7 @@ error_sign
 reset_delay
 Reset Delay:
 deformation_terrain
-Deformation:
+Deformação:
 cc_none
 None
 cc_fixed
@@ -1345,7 +1345,7 @@ Fixo
 cc_distance
 Distância
 cc_crashspeed
-Crash Speed
+Velocidade (Queda)
 ui_back
 UI Back
 ui_hide
@@ -1359,9 +1359,9 @@ Cheating
 common_setup
 Common
 polls_disabled
-Polls Disabled
+Votações Desativadas
 chat_disabled
-Chat Disabled
+Chat Desativado
 CC_limitedtyresets
 Limited
 CC_freetyresets
@@ -1373,7 +1373,7 @@ Track Not Allowed
 cc_dropped
 Dropped
 cc_cancelled
-Cancelled
+Cancelado
 tyres_selection
 Tyres:
 CC_SyncCachingBikePhysics
